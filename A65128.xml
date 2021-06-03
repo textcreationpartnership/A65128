@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vertue's triumph at the suppression of vice being a discourse occasioned by His Majesty's royal proclamation against prophaneness and debauchery, June the twenty ninth, 1688 ... / by a gentleman.</title>
+         </titleStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65128</idno><idno type="EEBO-CITATION">9086378</idno>
+  <idno type="VID">42395</idno>
+  <idno type="EEBO-PROQUEST">2248502380</idno>
+  
+            <idno type="STC">Wing V650</idno>
+            <idno type="STC">ESTC R25706</idno>
+            <idno type="OCLC">09086378</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A65128)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42395)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1297:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vertue's triumph at the suppression of vice being a discourse occasioned by His Majesty's royal proclamation against prophaneness and debauchery, June the twenty ninth, 1688 ... / by a gentleman.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for and sold by Randal Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Vice.</term>
+               <term type="topical_term">Swearing.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42395:1"/>
+            <pb facs="tcp:42395:1"/>
+            <p>
+               <hi>Vertue's Triumph</hi> AT THE SUPPRESSION OF VICE.</p>
+            <p>Being a Discourse occasioned by His Majesty's Royal Proclamation AGAINST <hi>Prophaneness</hi> and <hi>Debauchery, June</hi> the Twenty ninth 1688.</p>
+            <p>For the promoting and furthering which Noble and Ex<g ref="char:EOLhyphen"/>cellent Design, doubtless, all good Men are concerned.</p>
+            <p>
+               <hi>By a</hi> GENTLEMAN.</p>
+            <q>
+               <l>—Ʋbi non est pudor,</l>
+               <l>Nec cura juris, Sanctitas, Pietas, Fides,</l>
+               <l>Instabile Regnum—</l>
+               <bibl>
+                  <hi>Sen.</hi>
+               </bibl>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Licensed,</hi> July the Ninth, 1688.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for, and sold by <hi>Randal Taylor,</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:42395:2"/>
+            <pb n="3" facs="tcp:42395:2"/>
+            <head>
+               <hi>Vertue's Triumph</hi> AT THE SUPPRESSION OF VICE.</head>
+            <p>AS it is said of Kings and Princes in holy Writ, <hi>Dij<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stis,</hi>
+               <note place="margin">Psal 82.6.</note> ye are Gods; That is to say, God's especial Vicegerents on Earth, constituted by him for the Government of the World, under whose more especial Providence and Care Kings and Princes therefore are (as the learned <hi>Grotius</hi> observes) for as the wise Man speaks;<note place="margin">Prov. 8.15.</note>
+               <hi>By me Kings reign and Princes decree Justice:</hi> So in nothing do they appear more illustrious and like themselves, and thereby add a Lustre and Splendor to their Diadems they wear, nor make them sit faster on their Heads, than when they appear Zealous for the Honour of their Sove<g ref="char:EOLhyphen"/>raign Lord and Master the King of Kings and Lord of Lords: Promoting the same, in being Examples themselves, and giving Countenance and Encouragement to Religion and Vertue, and discountenancing, frowning upon, and suppressing all Prophane<g ref="char:EOLhyphen"/>ness,<note place="margin">Prov. 20.26.1 Sam. 2.30.</note> Wickedness, and Vice. <hi>Thus scattering all Wickedness with their Eyes</hi> (as the-Wise Man speaks:) To which God hath made a Promise, <hi>That they that honour him he will honour, and they that despise him shall be lightly esteemed:</hi> And by this
+<pb n="4" facs="tcp:42395:3"/>Means they also make themselves Kings of Men; for he that is Governour of licentious, disolute and debauched Subjects, may in a Sence be said to be but a King of Beasts; for, in truth, all Irreligion, Prophaneness and Debauchery makes them Beasts, or very never it. This noble Action of Princes makes them great and illustrious throughout the World, and also very formidable to their Subjects at home; they thus establish their Thrones by Righteousness, when they are thus good as well as great. And indeed a wise Heathen tells us, <q>Religion is the Cement of all Societies or Communities, and that it is much more easy to build a Castle in the Air without any Ground to found it upon, than to establish a Government without Religion.</q> I have also read how that <hi>Livy</hi> observes, <q>That <hi>Numa,</hi> next to Order and the sense of Religion reduced the City of <hi>Rome</hi> to Order and good-Government, and so to Prosperity, by which they be<g ref="char:EOLhyphen"/>came so Formidable and Considerable to their Neighbours, that they judged it Sacrilege to vex or molest them, a People so addicted to the Service of God. For as Religion causeth good Orders, so good Orders create Peace and Concord, which is a Peoples great Strength;</q> and we have had late Instances of good Princes who have followed the same Steps: I shall mention only one, <hi>viz. Lewis</hi> XIII. the last King of <hi>France,</hi> Father to the pre<g ref="char:EOLhyphen"/>sent King, of whom it is recorded by a late worthy protestant Historian of our own (to the immortal Honour of the said Prince) <q>That as he was Pious himself to an intense Degree,<note place="margin">Mr. <hi>Ja. Howell.</hi>
+                  </note> so he put out sundry Proclamations against Vice and Wicked<g ref="char:EOLhyphen"/>ness, particularly against Swearing, against Pride in Apparel, as also against Duels, and the last was so strict, That both the Appellant and Defendant, whosoever did survive, should suffer Death without Mercy, and both be deprived of Christi<g ref="char:EOLhyphen"/>an Burial, and rot upon the Gallows with their Heels upward.</q>
+            </p>
+            <p>Now can any vertuous and good Men, who have any Love to God, Religion and Goodness, but upon this happy Occasion of his Majesties Proclamation, cry out <hi>Vive le Roy,</hi> Let the King ever live and be prosperous and happy, when now (exerting his soveraign Authority against Prophaneness, Vice and Wickedness) he is pleased to let all such Malefactors know, that he will not bear the Sword in vain. And also how can we but heartily concur with this his Majesty's great, noble and christian Design? that being well and throughly prosecuted, will be to his immortal Honour
+<pb n="5" facs="tcp:42395:3"/>and Renown; and say, let it be as great <hi>James</hi> hath spoken? And accordingly join Hearts and Hands with him in the pursuing and chasing out of the World (as far as is possible) all Irreligion, Debauchery and Profaneness; this being, without all Doubt and Question, the Cause of God indeed, this being the best way doubtless, to make an Atonement with God for the Sins of the Nation, under which it now groans, and to engage the potent Arms of Heaven on our Side, to allay, if not to heal, our unna<g ref="char:EOLhyphen"/>tural Heats and Divisions; to introduce Religion, Love and Peace among us; to make our Soveraign and his Kingdom hap<g ref="char:EOLhyphen"/>py. Let us now give Thanks to God, who hath been pleased to put this noble Resolution into the Kings Heart (for more especially <hi>the King's Heart is in the Hand of the Lord,</hi>
+               <note place="margin">Prov. 21.1.</note> as <hi>Solo<g ref="char:EOLhyphen"/>man</hi> speaks) now to appear so Illustrious and like himself, God's Vicegerent on Earth, for the Reformation of a licentious Peo<g ref="char:EOLhyphen"/>ple; how can we forbear but add our great and general Shouts and Acclamations of Joy and Satisfaction, to be carried, not only through the City, but the Kingdom? For never certainly was there a better Occasion given for our Acclamations of Joy and Triumph than this.</p>
+            <p>In the next place, May all our worthy Nobility and Gentry follow that excellent Method their Prince hath set them, to be exemplary in their Lives, and then discountenance Sin in their Inferiors; then how would they be able by their very Nods or Frowns to do Wonders towards the reforming the Manners of the Nation.</p>
+            <p>May all our reverend and pious Clergy in the next place, preach down all Prophaneness, Wickedness and Debauchery in their Pulpits and Conversations, which now, not only God, but the King his Deputy on Earth, more especially commands them.</p>
+            <p>May also all our Magistrates and publick Officers under the King, conscientiously perform their Duties according to their Oaths, and avoid Perjury; as also the Guilt of Prophaneness and Debauchery, his Majesty having now commanded them to endeavour, according to the good Laws of the Land to suppress it: And considering further, that this is the great Plague of the Nation at present, and worthy their Care and Diligence to remove off from us: For certainly there can be no greater and more formidable Plague, Curse and Mischief befal a Nati<g ref="char:EOLhyphen"/>on or People, than to be given up to a reprobate Mind, and
+<pb n="6" facs="tcp:42395:4"/>lose or forget the Sense of Good and Evil, to be over-run with Debauchery and Prophaneness, and this by the universal Consent of all the knowing and wife Men that ever lived in all Ages of the World, Jew, Heathen, or Christian.</p>
+            <p>And may all hat are any ways guilty of these horrid Crimes (not to be once named among Christians) now upon sight of his Majesty's Proclamation, lay aside their Follies and debauched Courses and become reformed, wise and happy, that there might be no Occasion of the executing the Severity of the Laws upon them.</p>
+            <p>May also all sober and vertuous Persons in the Nation from his Majesty's Proclamation be encouraged to go on in their ver<g ref="char:EOLhyphen"/>tuous Course, and resolutely own Religion, Vertue and Sobrie<g ref="char:EOLhyphen"/>ty, and withstand the Current of bold, daring, prophane, athe<g ref="char:EOLhyphen"/>istical Discourses and Practices of audacious and wicked Men, and recommend daily by their Practice, Sobriety, Vertue and true Goodness to the World, and prudently by their Discourses and Conversation bring it into Vogue and Request, and advise, reprove, admonish and perswade with all christian Mildness and Gentleness the Vicious and Prophane, and in case of Contumacy to inform the Magistrate of them, for they now have not only God, but the King to encourage them herein.</p>
+            <p>Now further, to promote his sacred Majesty's noble Design, and to shew the Excellency of it, give me leave to represent the Na<g ref="char:EOLhyphen"/>ture of those Crimes his Majesty would have reformed, and that (for the most part) in the very Words of the learned and ju<g ref="char:EOLhyphen"/>dicious. An Author of great Eminency thus discourses. <q>Consi<g ref="char:EOLhyphen"/>der, saith he, that the Vertues of moderating the use of Meat and Drink is called Abstinence and Sobriety; but as to what concerns the Touch is called Chastity and Modesty. So the Pleasures that arise from the Tast are under the Go<g ref="char:EOLhyphen"/>vernment of Temperance, which only approves of those that are necessary according to right Reason: The infallible Rule she proceeds by is this, To take that for a Measure in what concerns the Body, which Nature hath made necessary; and never for Pleasure sake admit of any Pleasure.</q>
+            </p>
+            <div type="part">
+               <pb n="7" facs="tcp:42395:4"/>
+               <head>
+                  <hi>First,</hi> As to the Vice of Gluttony and Drunkenness.</head>
+               <p>AS it is most hateful and detestable; that degrades a Man, robs him of his Reason, and turns him into a Beast, so it is (as one speaks) <q>bigg with a thousand Evils, the Mother of most other Vices. And (as the said worthy Author goes on) This is (saith he) That which brought Death into the World, and ministers Matter in great measure to the rest of Evils. From hence proceeds Dullness of Spirit, Sloth, Weariness of e<g ref="char:EOLhyphen"/>very thing, Scurrility, Debauchery, heaviness of Mind, and dissolution of all Vertues, Prodigality, Beggary, a long Train of Diseases, and Death it self in the Conclusion. This is that swells our Bills of Mortality, for vicious Humours con<g ref="char:EOLhyphen"/>tracted from Excess in Meats and Drinks, are the Food almost of all Diseases.</q> According as the Father speaks. <hi>Jussisti Domi<g ref="char:EOLhyphen"/>ne, &amp; sic est, ut omnis inordinatus affectus sibi sit poenae.</hi> Aug. Cons. And further, according to that proverbial saying:</p>
+               <q>
+                  <p>
+                     <hi>Non plures gladio quam cecidêre gula.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Gluttony and Intemperance kill more than the Sword.</p>
+               </q>
+            </div>
+            <div type="part">
+               <head>Next as to the Vice of Luxury and Ʋnchastity.</head>
+               <p>THE said Author goes on, <q>Luxury is a brutal Vice, and that which of all others puts a Man the most out of Coun<g ref="char:EOLhyphen"/>tenance; he that falls into it, rarely gets out again, until at last <hi>it brings Rottenness into his Bones,</hi>
+                     <note place="margin">Prov. 12.4.</note> as the Scripture speaks.</q> The learned <hi>Grotius</hi> thus also discourses of it in his Book <hi>De ve<g ref="char:EOLhyphen"/>ritate Christianae Religionis:</hi>
+                  <q>The Conjunction of Male with Fe<g ref="char:EOLhyphen"/>male, whereby Mankind is propagated, is a thing most worthy of the Care of Laws: Those <hi>Greeks</hi> who praised the Commu<g ref="char:EOLhyphen"/>nity of Women (saith he) what have they else done, but turned the whole (ity into a common Stews? The very Ani<g ref="char:EOLhyphen"/>mals, some of them, observe a king of conjugal Covenant: How much more should the divinest Creature, Man, that he might not spring out of uncertain Seed, and so the mutual Af<g ref="char:EOLhyphen"/>fection that Nature hath kindled between the Parent and the Children be utterly extinguished? The most perfect Law of Christ pierceth to the very Root of Vices, and condemneth him that hath but assaulted any Womans Chastity, or defloo<g ref="char:EOLhyphen"/>red
+<pb n="8" facs="tcp:42395:5"/>her with his lustful Eyes, as guilty in the Judgment of God, who behold the Heart, of Sin desired though not per<g ref="char:EOLhyphen"/>formed.</q>
+               </p>
+            </div>
+            <div type="part">
+               <head>As to the abominable Vice of prophane Swearing and Cursing.</head>
+               <p>
+                  <q>THE Tongue (saith the former Author) has in a manner the power of Life and Death: A Tongue without a Guard upon it is like a City without a Wall; God hath bestowed the Faculty of Speech upon us for the testimony and Propaga<g ref="char:EOLhyphen"/>tion of the Truth;</q> as also the Means of conversing together and making known our Minds to each other. Now the profane Swearer makes use of his Tongue to contemn and defy, yea re<g ref="char:EOLhyphen"/>proach his Maker, somewhat like what <hi>Job</hi>'s Wife advised him to, To <hi>Curse God and die,</hi> intimating that Death would be a cer<g ref="char:EOLhyphen"/>tain Attendant upon that hight of Wickedness. This kind of Language is some of <hi>that deadly Poison</hi> mentioned by the Apo<g ref="char:EOLhyphen"/>stle, of which he justly concludes that the Tongue of Man is full, <hi>and whereby it is set on Fire of Hell,</hi>
+                  <note place="margin">James 3.6.</note> and yet he mentions only the Cursing of Man, not God. This Sin of common fwearing and cursing, as it is an open daring Affront to the Almighty, is the certain Product of an atheistical and prophane Heart, that is at Defiance with Heaven, and certainly should not be once named among Christians (our Religion absolutely forbidding it) especially reformed Christians, as we profess our selves to be. And indeed nothing renders God Almighty more contemptible to Mankind than common prophane Swearing, and consequently introduces Debauchery and Wickedness, to the Dishonour of a Nation and People, and their Ruin at last; and therefore nothing can be (as I humbly conceive) more worthy the Care of prin<g ref="char:EOLhyphen"/>ces and Magistrates, than the effectual suppressing thereof. I would request those Gentlemen who give themselves a Liberty herein, to consider whether they would be well pleased if they were made the common bye-Word of the Town, and their Names tost about like a Dishclout or Footbal, by every mean pitiful Fellow in his common Discourse, yea even in his scurrilities and filthy Discourses; and then let him not do that herein to another, especially to his God, which he would not have done by any o<g ref="char:EOLhyphen"/>ther to himself. yea, this Crime is of so abominable a Kind, and so contrary to the common Dictates of Nature, as a Hea<g ref="char:EOLhyphen"/>then
+<pb n="9" facs="tcp:42395:5"/>will tell us, <hi>Discite justitiam moniti, &amp; non temnere divos.</hi> Virg. There is not any Nation among the heathen World, so pro<g ref="char:EOLhyphen"/>digiously barbarous and wicked at this day, as to contemn and reproach the Gods they worship, nor will indure that any o<g ref="char:EOLhyphen"/>ther should slight or contemn them. Such heathens therefore would all, doubtless, agree unanimously, That that Man who is thus daringly Impudent against Heaven, is most worthy to have his Tongue pierced through with a hot Iron, as a just Punishment of this Offence and wickedness. This Sin also ren<g ref="char:EOLhyphen"/>ders them that are guilty of it, most unsociable and offensive to all sober People, and makes them abandoned and avoided, as infernal Spirits rather than Men; but they may be well ac<g ref="char:EOLhyphen"/>counted, in some Sense, worse than those unclean Spirits; for the Devils fear and tremble, and dare not be so bold with God; they durst not defy or reproach our blessed Saviour, when upon Earth, but were subject to him, and commanded by him, and were forced to acknowledg him and beg his Favour.</p>
+               <p>By this Representation of the before mentioned Vices and Sins, sufficiently evinces the Piety, Christianity and Nobleness of his Majesty's Soul and Mind, and the Worthiness and Excellency of his Design, in his said Proclamation; fit to be taken Notice of by us, and to meet with a suitable Reception by all his Subjects, and make us resolved to yield unto him all Love, Loyalty and Obedience, according to our Christian Duty and Allegiance; and to which purpose give me leave to present to you the ju<g ref="char:EOLhyphen"/>dicious Discourse of the forementioned worthy <hi>Grotius.</hi>
+                  <q>I in<g ref="char:EOLhyphen"/>culcate into Subjects (saith he) Obedience to their Princes, according to the Precept of Christ and his Apostles. Let them desire the best, give God thanks for the middle Sort, and bear with the worst, for the Doctrine and Example of Christ.—And when I speak of Subjects, under that Name I comprehend also inferior Magistrates, who in respect of the highest Power are <hi>but Subjects sent by the King,</hi>
+                     <note place="margin">1 Pet. 2.14.</note> as St. <hi>Peter</hi> saith, I preach not (saith he) <hi>Evangelium armatum,</hi> an ar<g ref="char:EOLhyphen"/>med Gospel, as some whom he there mentioned had done.</q>
+               </p>
+               <p>Let us consider, that if the Possession of Truth, of Purity and Integrity of Heart and Life, in our Christianity, is always pro<g ref="char:EOLhyphen"/>ductive of Peace, Unity and Charity, as most certainly it is, for Peace and Holiness are made inseparable in Scripture: Now from our great Discords and Animosities what may we conclude,
+<pb n="10" facs="tcp:42395:6"/>but that there is a great Deficiency among us at this Day of those primitive Christian Graces? And may I here take occasi<g ref="char:EOLhyphen"/>on in middst of our voluminous Controversies, at this Day a<g ref="char:EOLhyphen"/>mong us, to speak a serious Truth, that (I humbly conceive) deserves to be taken Notice of by us, That while we make use of strong Arguments for our reformed Christianity, against our Adversaries the Romanists, we take special Care we do not weaken them, if not render them wholly insignificant by our unchristian Lives and Conversations. I humbly conceive, if we who are Protestants (without better and reformed christian Religion) are not more in love with it, and do not generally live better Lives than our Adversaries with their Religion, I cannot conceive, how we can expect God should continue it to us, or what other Advantage possibly we can reap from the en<g ref="char:EOLhyphen"/>joyment of it, but this, That for the abuse of so great a Mercy we should have the greater Condemnation at the last in Hell: Let us for Shame be up and doing, out-live our Adversaries as well as out-argue them; and now upon this happy Occasion let us begin this Work and Reformation. Let us be exemplary in our Lives, and the best Christians in the World, as we have the best Christianity: It is not enough, <hi>Eloquia Dei scire, sed secundùm haec vivere,</hi> that will advantage us; therefore let us bring forth better Fruit, let us become more humble, holy, devout, peaceable and charitable; more governable and submissive to Authority, more loyal, more just and honest in all our Dealings, than other Christians; and then, as a late pious and worthy Author speaks, in respect to Heathens: <q>Oh were our Duty (saith he) as St. <hi>Chrysostom</hi> sweetly exhorteth) of Piety and a vertuous Life, faithfully complied with, we might soon, and even without Miracles, convert the World to Christianity.</q> So let me ap<g ref="char:EOLhyphen"/>ply it in reference to our Adversaries the Romanists, we should need no such multiplicity of Arguments to evince the Truth of our Religion, or perswade others to come over to us and em<g ref="char:EOLhyphen"/>brace ours. Let us at last consult our reverend and pious Di<g ref="char:EOLhyphen"/>vines, and seriously ask them what their Opinion is, what is likely to be the Result and Consequent of it, <hi>viz.</hi> That when in a manner all the Christians this Day in the World, besides our selves, are constantly every day devoutly upon their Knees at their solemn publick Devotions at Church, at the usual times and hours of Prayer, according to the Constitutions and Pra<g ref="char:EOLhyphen"/>ctice
+<pb n="11" facs="tcp:42395:6"/>of the primitive Christians, That we in <hi>England</hi> are gene<g ref="char:EOLhyphen"/>rally at the same times, either wholly taken up in our Trades, or, which is worse, are at our Recreations and Diversions; or, perhaps, doing nothing; or, which is more abominable, at Ta<g ref="char:EOLhyphen"/>verns and places of Entertainment and Debauchery, and not One of a Hundred, in some Parishes (where there is constant Prayers) and in other Parishes not one of a Thousand, that will give their Attendance upon God's publick Worship, and perform their Duty and Homage to him, who is the Breath of their Nostrils, the Author of all they are or have, as if we in <hi>England</hi> had not a God to serve, or had so much pressing Business upon our Hands above the rest of the World, sufficient to excuse our Neg<g ref="char:EOLhyphen"/>lect herein, or else that we had got a Dispensation from the Al<g ref="char:EOLhyphen"/>mighty to transgress his Laws, and neglect his publick Worship and Service. Let us seriously and sadly consider how much the Christianity of our Days degenerates from what it was in the first primitive Times, when it is said,<note place="margin">Lu. 24.25.</note> That our Saviour's Di<g ref="char:EOLhyphen"/>sciples and Followers (after his Ascension) <hi>were continually in the Temple praising and blessing God,</hi> and we never all the Week long but upon <hi>Sundays,</hi> if then. It was (as one observes) the Jewish Aphorism, <hi>Decima uc dives fias:</hi> Answering to our old English Adage, That <hi>Meat and Mass,</hi> or <hi>Prayer and Provinder do never hinder Work.</hi> To which may be added the Answer of the Prophet to <hi>Amasiah:<note place="margin">Chr. 25.9.</note> The Lord is able to give thee much more than this.</hi> So that nothing, doubtless, in Conclusion, would be lost by a consciencious daily Attendance upon the publick Wor<g ref="char:EOLhyphen"/>ship of God. And as it is said of honest <hi>Socrates,</hi> That he was wont to curse those Men who first separated Profit and Honesty, nothing being profitable and expedient but so far as it is void of Baseness. So I am ready to curse that wicked Opinion, too rife among us, That we serve God sufficiently in our Shops and Trades all the Week long; thereby separating the daily Atten<g ref="char:EOLhyphen"/>dance upon God's publick Worship from Religion and Piety. I humbly conceive it is a very great and dangerous Error (and Mistake, and of very bad Consequence) which is now so preva<g ref="char:EOLhyphen"/>lent amongst us at this Day, <hi>viz.</hi> To croud all our Duties of publick Worship of God, yea, all our piety, into the Sunday or Lord's Day, with the total Neglect of it all the rest of the Week.</p>
+               <p>And as to Peace and Unity, may I present unto you the Dis<g ref="char:EOLhyphen"/>course of an eminent Protestant Divine at the Synod of <hi>Dort,</hi> in
+<pb n="12" facs="tcp:42395:7"/>his Sermon there; it was <hi>Scultetus</hi> of the <hi>Palatinate.</hi>
+                  <q>It is (saith he) <hi>Summum hominis gaudium,</hi> The chiefest Joy of a good Man, to see the peace and flourishing of the Church; That it is <hi>Summum hominis votum,</hi> The chiefest Desire of a good Man, to pray for the Peace of the Church; That it is <hi>Summum hominis studium,</hi> Also the chiefest Study and Care of a good Man to procure the Peace of the Church:</q> And yet, notwithstanding this, to see Christians in our Days, on all hands, to be still in love with Dissention, and widning the Wounds and Rents of Christendom, how can a good and honest Heart but la<g ref="char:EOLhyphen"/>ment and bewail it? And notwithstanding, although this Evil seems impossible to be amended as it is for a rich Man to enter into Heaven; yet that which is impossible with Man is possible with God. I shall earnestly pray for the Peace of <hi>Jerusalem,</hi> for the Peace of Christendom: For alas! must the Contests and Con<g ref="char:EOLhyphen"/>troversies of the Christian World no otherwise be accommoda<g ref="char:EOLhyphen"/>ted and ended but by Victory and Conquest, and imbruing our Hands in one anothers Blood? O! when will the time come that our Christianity will so far prevail with us in Christendom, to heat our Swords into Plough-Shares, and our Spears into Pru<g ref="char:EOLhyphen"/>ning-Hooks, and to learn War and Contention no more: Unity and Peace is so great a Jewel, no wonder it made that good Em<g ref="char:EOLhyphen"/>peror <hi>Matthias</hi> chose this Motto, <hi>Concordia lumine major.</hi>
+               </p>
+               <p>Thus far my own Thoughts have led me upon this happy Occasion, wishing all Happiness and Prosperity to his Sacred Majesty, his Royal Consort, his Royal Highness the Prince of <hi>Wales,</hi> and all the Royal Family; the Welfare of my Mother the Church of <hi>England,</hi> and the Peace of the Kingdom, for the promoting of which great Blessings to us all, I can apprehend nothing better and more effectual, than the through prosecution of his Majesty's present, noble, excellent christian Design, unto which I could not therefore for bear but add my mean Plaudit; in which, as I hope I have the concurrence of Heaven, yea, of God, Angels and all good Men; so, I think, none can take Offence thereat but Devils and wicked Men.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:42395:7"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
